@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>ListenIn</title>
-    <!-- 首个 release 时由 generate_appcast 生成条目替换本文件 -->
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ListenIn</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 18 Jul 2026 04:58:27 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.1.0/ListenIn-0.1.0.dmg" length="5229283" type="application/octet-stream" sparkle:edSignature="SSXpvjlfkXteoldh0tj6zzNbtb6+FWhRjqLLkKcsX0xOurXRM2o7gw9FgGqU9tvoUC0lze3iSibZXgwl7UL3CA=="/>
+        </item>
+    </channel>
 </rss>
