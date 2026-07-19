@@ -1,20 +1,20 @@
 # ListenIn
 
-**你的 Mac 听你说 —— 按一下键说话，任何输入框秒出干净成稿。**
+**Your Mac listens — press a key, speak, and clean, finished text appears in any input field instantly.**
 
-中英混说一流 · 口误自动修正 · 断句分点 · 个人词典越用越准 · 数据只存本机
+Best-in-class mixed Chinese–English · automatic slip correction · sentence segmentation & bullet points · a personal dictionary that gets sharper the more you use it · your data stays on your device
 
-## 下载
+## Download
 
-→ [Releases](https://github.com/wuyumo/listenin-releases/releases) 页面下载最新 DMG
+→ Get the latest DMG from the [Releases](https://github.com/wuyumo/listenin-releases/releases) page
 
-系统要求：macOS 14.0+（推荐 macOS 26，可启用新一代识别引擎）
+Requirements: macOS 14.0+ (macOS 26 recommended — enables the next-generation recognition engine)
 
-## 隐私
+## Privacy
 
-语音识别默认在设备上进行；只有转写文本经加密连接发送到清稿服务，**不存储、不训练**。
-听写历史、个人词典全部只存在你的 Mac 本地。详见 [隐私政策](PRIVACY.md)。
+Speech recognition runs on-device by default; only the transcribed text is sent over an encrypted connection to the cleanup service, and it is **never stored and never used for training**.
+Your dictation history and personal dictionary live only on your Mac. See the [Privacy Policy](PRIVACY.md).
 
-## 更新
+## Updates
 
-App 内置自动更新（Sparkle），也可随时回到本页下载最新版。
+The app updates itself automatically (Sparkle); you can also come back to this page anytime for the latest build.
