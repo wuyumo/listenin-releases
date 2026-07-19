@@ -3,12 +3,12 @@
     <channel>
         <title>ListenIn</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Sat, 18 Jul 2026 10:17:02 +0800</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Sun, 19 Jul 2026 22:11:49 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.1.1/ListenIn-0.1.1.dmg" length="3902121" type="application/octet-stream" sparkle:edSignature="doA1++iQx8RkCzescirDfGcsgwHGZAPc6tt8TcX3TppYJS2lLmHx2nWqKeKhlmXxcNuTZXKxLOTuZtnTRGtACw=="/>
+            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.1.2/ListenIn-0.1.2.dmg" length="4155250" type="application/octet-stream" sparkle:edSignature="FKxrgiPFF04qFyczdkuTK1qixOGaFxeaHWXwGAjYQWd5mdgb6PYmO7S7FIfpCvhZbDxd7/2EqtXpG4BJcWifAQ=="/>
         </item>
     </channel>
 </rss>
