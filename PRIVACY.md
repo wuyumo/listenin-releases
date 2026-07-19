@@ -1,21 +1,21 @@
-# ListenIn 隐私政策
+# ListenIn Privacy Policy
 
-生效日期：2026-07-16
+Effective date: 2026-07-16
 
-## 一句话版本
+## In one sentence
 
-你的语音在设备上识别；只有识别出的**文字**会发送到我们的清稿服务做整理，我们**不存储你的任何内容**。
+Your voice is recognized on your device; only the recognized **text** is sent to our cleanup service for polishing, and we **store none of your content**.
 
-## 详细说明
+## Details
 
-**语音**：识别由 Apple 设备端语音引擎完成，音频不上传到 ListenIn 的服务器。录音过程中的临时草稿文件仅存在本机，正常完成后即删除。
+**Voice**: Recognition is performed by Apple's on-device speech engine; audio is never uploaded to ListenIn's servers. Temporary draft files created while recording live only on your Mac and are deleted once dictation completes normally.
 
-**转写文本**：为了整理成稿（断句、去语气词、修正口误等），识别出的文字会通过加密连接（HTTPS）发送到 ListenIn 的清稿服务，由大语言模型处理后立即返回。我们不落盘、不留存、不用于训练。若你在设置中配置了自己的 API Key，文字将直接发送到你选择的服务商，不经过我们的服务器。
+**Transcribed text**: To polish it into finished text (sentence segmentation, filler-word removal, slip correction, and so on), the recognized text is sent over an encrypted connection (HTTPS) to ListenIn's cleanup service, processed by a large language model, and returned immediately. We do not write it to disk, retain it, or use it for training. If you configure your own API key in Settings, the text is sent directly to the provider you chose and never passes through our servers.
 
-**本地数据**：听写历史、个人词典、全部设置只存储在你的 Mac 本地（Application Support 目录），随时可在 app 内清除。
+**Local data**: Your dictation history, personal dictionary, and all settings are stored only on your Mac (in the Application Support directory) and can be cleared from within the app at any time.
 
-**用量计量**：为了实现免费额度，我们按匿名设备标识记录每周的清稿字数（仅数字，不含任何文本内容）。购买 Pro 后按 License Key 记录。
+**Usage metering**: To offer a free tier, we record the number of words cleaned up each week against an anonymous device identifier (a count only — no text content). After you buy Pro, usage is recorded against your license key.
 
-**第三方**：支付由 Polar（polar.sh）作为登记商户处理，我们不接触你的支付信息。清稿推理由第三方大模型服务商执行（当前为 DeepSeek），仅接收待整理的文字，受其隐私条款约束。
+**Third parties**: Payments are handled by Polar (polar.sh) as the merchant of record; we never see your payment information. Cleanup inference is performed by a third-party large-model provider (currently DeepSeek), which receives only the text to be polished and is bound by its own privacy terms.
 
-**联系**：wuyumoawuyumo@gmail.com
+**Contact**: wuyumoawuyumo@gmail.com
