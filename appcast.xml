@@ -3,12 +3,23 @@
     <channel>
         <title>ListenIn</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Thu, 23 Jul 2026 00:00:50 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.1.3/ListenIn-0.1.3.dmg" length="4189094" type="application/octet-stream" sparkle:edSignature="uSZPo0BlNVKgIt+5MzMIrW7gHiVcIbvgjtf1jYI9k73wutQsOr7FAXrn8PJAcPt7PD/CYzcb1sSnrRWb+ALGDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.1.3/ListenIn4-3.delta" sparkle:deltaFrom="3" length="520354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O8QPyL0bCamoCpdluiGxdZNgU2YTeMa86F7dmOR10UlSWaIQ3Q1QhFsbUgC0nDhaTiUTBl4Fj8diIYf0HhO2Dw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Sun, 19 Jul 2026 22:11:49 +0800</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.1.2/ListenIn-0.1.2.dmg" length="4155250" type="application/octet-stream" sparkle:edSignature="FKxrgiPFF04qFyczdkuTK1qixOGaFxeaHWXwGAjYQWd5mdgb6PYmO7S7FIfpCvhZbDxd7/2EqtXpG4BJcWifAQ=="/>
+            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.1.3/ListenIn-0.1.2.dmg" length="4155250" type="application/octet-stream" sparkle:edSignature="FKxrgiPFF04qFyczdkuTK1qixOGaFxeaHWXwGAjYQWd5mdgb6PYmO7S7FIfpCvhZbDxd7/2EqtXpG4BJcWifAQ=="/>
         </item>
     </channel>
 </rss>
