@@ -8,7 +8,7 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.2.4/ListenIn-0.2.4.dmg" length="8371029" type="application/octet-stream" sparkle:edSignature="tspGShRZ7+HYjUKEZ8hsdpMNHDk57vJ99hyp8rLoq/Q2GqC8yQ+BSsWRNScYLhPAgbso9gbyGv5nZV7nG5nqBg=="/>
+            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.2.4/ListenIn-0.2.4.dmg" length="8371428" type="application/octet-stream" sparkle:edSignature="ZTdnhwOZ/MnUBxmDKDCM9eBOuvtCyRrwO6pFCDMlk00aL6oJLNMpLvk+rxwEU0KuOJT0wCieqtTLYDiL+mIhDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.2.4/ListenIn9-8.delta" sparkle:deltaFrom="8" length="1621374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kBmBWJtlA7xl5RuUuOcl/no7RdmHtNpZ3AfNXqQ5ajsrOaUNjLodvBl0I+MIkDiJLH42sn5Rb/zc0pxC8awjCg=="/>
                 <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.2.4/ListenIn9-7.delta" sparkle:deltaFrom="7" length="1626974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aDMsYXPh9Dsq07d6br2zYr5V2+F2A6qRhcgFep3IVnw2gd0pR/ClXnSjKqbygXYDVA901HsXntuo8dyu3LiECA=="/>
