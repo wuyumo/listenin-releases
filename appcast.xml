@@ -1,20 +1,36 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>ListenIn</title>
+        <item>
+            <title>0.3.7</title>
+            <pubDate>Thu, 15 Oct 2026 22:25:03 +0800</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.7/ListenIn-0.3.7.dmg" length="9184418" type="application/octet-stream" sparkle:edSignature="N8PeFvhtrNM6B8Fav9xl5/eTcciMnbb9lvd6//BcxSG67mztJms5ozuLKPeQf2Lo+H/iGuDwY3BEEf3aht+CDw=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.7/ListenIn35-18.delta" sparkle:deltaFrom="18" length="3334162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="s4YlifMS++8l33MownTTgUGBSAQ6UrtrHihmFGOWN8felQ18ENY9aJhrnNk2iHsh486ityZvPFjlqq3Vp/xmCQ=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.7/ListenIn35-17.delta" sparkle:deltaFrom="17" length="3332322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="llnoVW4rCQLEIBi5y0ZKgNYJQysig/m3HcS7Ium/K5okWv75F60MsYGJ086zZQ+zjxy62bWiYljpD3AgdEEqBQ=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.7/ListenIn35-16.delta" sparkle:deltaFrom="16" length="3356502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J1Qd5Rg53vIhwVhzBV/X7q9N6sZEew49KgyO91Bi9ITF39qh9KRnIqIfH7o+w7BjxFkvK4EzeqOo1tfGrpnrBQ=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.7/ListenIn35-15.delta" sparkle:deltaFrom="15" length="3360198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9qc7c8c5pBWgURHDtX7gQn4rozD7x4G109fWaOG7B4AROag3gEC25IfEF689qiDBxTyYlnGAep60AWjFL8HfDw=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.7/ListenIn35-14.delta" sparkle:deltaFrom="14" length="3363270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jTnLWS7CLIym2iYOa9H0+U3gQYkSetGBih3KFkKT2ZvfqyNDTi6mvKcs639B4rtlo10UfSuLMOMykg2/YUT4BA=="></enclosure>
+            </sparkle:deltas>
+        </item>
         <item>
             <title>0.3.6</title>
             <pubDate>Mon, 21 Sep 2026 10:32:28 +0800</pubDate>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn-0.3.6.dmg" length="8795772" type="application/octet-stream" sparkle:edSignature="JvFwcNiA0DFrIArlsbBJPFE8qPysibKyAM/Dn7VDFdxAFZqZ4PA4+EFZP0MbNI3BHn4CgYInKxa9jrEA3+YWDg=="/>
+            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn-0.3.6.dmg" length="8795772" type="application/octet-stream" sparkle:edSignature="JvFwcNiA0DFrIArlsbBJPFE8qPysibKyAM/Dn7VDFdxAFZqZ4PA4+EFZP0MbNI3BHn4CgYInKxa9jrEA3+YWDg=="></enclosure>
             <sparkle:deltas>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn18-17.delta" sparkle:deltaFrom="17" length="670926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LtTptRopXgSZdx9Gy7bTBcnnDjPNHu4+qGddrZlY68lUGdJvFE08a4nRvXIA0atlQXXeiueIV3nKQLkG1hRrCg=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn18-16.delta" sparkle:deltaFrom="16" length="865946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1wxd/HmYw5ZKKU6RKYVxrJKjvdmVvRgjO/XpwpxU5n5ICdfqJhE11yUjdC+amiU/ah2seDrHoRfjhWZaBrhNCQ=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn18-15.delta" sparkle:deltaFrom="15" length="906434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9bLipke1yDCPUB3nQDSQb06TKFrLnA5AracWcfCQ8w5sc5cpa2IQoFFIjLhNuSDklN+R7NjI1fL4MPpOUvKiCw=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn18-14.delta" sparkle:deltaFrom="14" length="1026394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WlTuanL8kiFXDYhTHiev90fNu2u1fa03bESSzw7hWlbI2Y8Wr7ZSOjQg3xExWkmdpVq6SCxVMp2IrAD6/eqbAA=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn18-13.delta" sparkle:deltaFrom="13" length="1049242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mBkCknppJh4nTv+/Xo90+ftLqDjhSbs1HVh9VNAFEgZbgTplZ5y3W2MWlYaUcHA7GdcyuLQC88jlrtldb06PCA=="/>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn18-17.delta" sparkle:deltaFrom="17" length="670926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LtTptRopXgSZdx9Gy7bTBcnnDjPNHu4+qGddrZlY68lUGdJvFE08a4nRvXIA0atlQXXeiueIV3nKQLkG1hRrCg=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn18-16.delta" sparkle:deltaFrom="16" length="865946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1wxd/HmYw5ZKKU6RKYVxrJKjvdmVvRgjO/XpwpxU5n5ICdfqJhE11yUjdC+amiU/ah2seDrHoRfjhWZaBrhNCQ=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn18-15.delta" sparkle:deltaFrom="15" length="906434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9bLipke1yDCPUB3nQDSQb06TKFrLnA5AracWcfCQ8w5sc5cpa2IQoFFIjLhNuSDklN+R7NjI1fL4MPpOUvKiCw=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn18-14.delta" sparkle:deltaFrom="14" length="1026394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WlTuanL8kiFXDYhTHiev90fNu2u1fa03bESSzw7hWlbI2Y8Wr7ZSOjQg3xExWkmdpVq6SCxVMp2IrAD6/eqbAA=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn18-13.delta" sparkle:deltaFrom="13" length="1049242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mBkCknppJh4nTv+/Xo90+ftLqDjhSbs1HVh9VNAFEgZbgTplZ5y3W2MWlYaUcHA7GdcyuLQC88jlrtldb06PCA=="></enclosure>
             </sparkle:deltas>
         </item>
         <item>
@@ -23,29 +39,17 @@
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn-0.3.5.dmg" length="8794371" type="application/octet-stream" sparkle:edSignature="09Jh8is0e4yRpnJhD1hu9JS42nKWNEAKHDIExGyBErYxV23hKp1CQUzzQjcxl3OkmTXoSceyaG5DpHAntm/4AQ=="/>
+            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn-0.3.5.dmg" length="8794371" type="application/octet-stream" sparkle:edSignature="09Jh8is0e4yRpnJhD1hu9JS42nKWNEAKHDIExGyBErYxV23hKp1CQUzzQjcxl3OkmTXoSceyaG5DpHAntm/4AQ=="></enclosure>
             <sparkle:deltas>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn17-16.delta" sparkle:deltaFrom="16" length="859442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NqWSby8K126gblf4xZ7cvfPPHcpYzK00BZmLW6QIIFfdzqYy4yqEknxrAuPfdm8BS+TshvXXL9zWKoktpNWbCQ=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn17-15.delta" sparkle:deltaFrom="15" length="885154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Swdu1rCdEsKZ4ZbCr3IH0GH03eTnAeM5YrD6pLqi4j0UNQCOXTjeMz7IdgG2k3cpXgNV2DirXePwwtnlN5v5Cw=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn17-14.delta" sparkle:deltaFrom="14" length="1012578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EZYZ4ZveagTuMQ+6lJ9xwUXtlqBwmzkBWCKx5kUZNw2Ml2jr0FxOmz7sj87zuA2zjZrZ7dcS87xfK9GylrLlDw=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn17-13.delta" sparkle:deltaFrom="13" length="1041370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zX4peGbb9kBMAGBlfR3sP/WXo8zQS9yJnlIkLpj0D0kjzRihXEtAuXfvGySkXutWn07ADnwegkl8utOW7x7/DQ=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn17-12.delta" sparkle:deltaFrom="12" length="1350890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3KcvtzsUDnIDbJn9Q9nAuaiRvucI83x0keVwSiEVWIfl/KnVBmjE7Cyfg4/7P5qxybWlxaFBC3zjAIJZqm08Bw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.4</title>
-            <pubDate>Wed, 16 Sep 2026 23:43:16 +0800</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.6/ListenIn-0.3.4.dmg" length="8658537" type="application/octet-stream" sparkle:edSignature="SuRa5ShzCSA6m5GzBCS9sKEz5qH1vaJfjwLfkFxfMS4nFWNxdfiUiKgpO2I8ppnfZjUgXIEYdzna+Jd9u20xCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.4/ListenIn16-15.delta" sparkle:deltaFrom="15" length="676146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3TfNx1y3ZmPj/kd3Kz9jshQuK8UoVBER3gwkkXJF9sB4hzLFdh2GNLygpyyEnMOvkKnI2/B3C5PaQSoTgAUHDg=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.4/ListenIn16-14.delta" sparkle:deltaFrom="14" length="908430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FLZu37gQjyFbP3KoPVfDrmYesh4Iz9aiaEYjJeSsFlYopXrD90UceKJ6mu0U09A+cr+xavvX5/eEtWGphROhAQ=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.4/ListenIn16-13.delta" sparkle:deltaFrom="13" length="923726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xsDZMvkBTgt+AoT4MwBnZ5kvo6aeVnzhMbjnlAdR4jwWMdNIHIsmJNV4EeMiPo19d5SThKuSt9ULW8GPrgXdBQ=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.4/ListenIn16-12.delta" sparkle:deltaFrom="12" length="1310334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bckZIxYquH0aSG02dNUekjLX+zNiWwGjxNRD5QeI5gzJzfiI94kovRXeOqGMcbxmvGhtZQftWYcq1ajTDdYkCg=="/>
-                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.4/ListenIn16-11.delta" sparkle:deltaFrom="11" length="1377414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2KusMTQMMzZhR4HYq5rBVmEVDObqe0U4iinbRgHsHoDqIqNPJATWxu+Y0becn2WC7quK5+zw9melyBurCGouCg=="/>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn17-16.delta" sparkle:deltaFrom="16" length="859442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NqWSby8K126gblf4xZ7cvfPPHcpYzK00BZmLW6QIIFfdzqYy4yqEknxrAuPfdm8BS+TshvXXL9zWKoktpNWbCQ=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn17-15.delta" sparkle:deltaFrom="15" length="885154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Swdu1rCdEsKZ4ZbCr3IH0GH03eTnAeM5YrD6pLqi4j0UNQCOXTjeMz7IdgG2k3cpXgNV2DirXePwwtnlN5v5Cw=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn17-14.delta" sparkle:deltaFrom="14" length="1012578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EZYZ4ZveagTuMQ+6lJ9xwUXtlqBwmzkBWCKx5kUZNw2Ml2jr0FxOmz7sj87zuA2zjZrZ7dcS87xfK9GylrLlDw=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn17-13.delta" sparkle:deltaFrom="13" length="1041370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zX4peGbb9kBMAGBlfR3sP/WXo8zQS9yJnlIkLpj0D0kjzRihXEtAuXfvGySkXutWn07ADnwegkl8utOW7x7/DQ=="></enclosure>
+                <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.5/ListenIn17-12.delta" sparkle:deltaFrom="12" length="1350890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3KcvtzsUDnIDbJn9Q9nAuaiRvucI83x0keVwSiEVWIfl/KnVBmjE7Cyfg4/7P5qxybWlxaFBC3zjAIJZqm08Bw=="></enclosure>
             </sparkle:deltas>
         </item>
     </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: +x6LLstkXY4HAIUvslCKlR4CPWSjze2VUGE4aKruP1bJLQ9SX7RhWCzktNPJGfXLz58Guxcf3XvBFIs7yoIcAQ==
+length: 8793
+-->
