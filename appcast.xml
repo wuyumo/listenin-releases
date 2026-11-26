@@ -4,6 +4,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>ListenIn</title>
         <item>
+            <title>DucDuc 0.3.8</title>
+            <pubDate>Thu, 26 Nov 2026 21:33:00 +0800</pubDate>
+            <sparkle:version>171</sparkle:version>
+            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wuyumo/listenin-releases/releases/download/v0.3.8/DucDuc-0.3.8.dmg" length="12652802" type="application/octet-stream" sparkle:edSignature="ow2bUi9QnlScqJyyB6ZDb7trroo8xQRraQaRdVk42g5FV2ixj+qh3UtFZGIyhkpOnim6MxTVUREehNpaPuQUAA=="></enclosure>
+        </item>
+        <item>
             <title>0.3.8</title>
             <pubDate>Sat, 17 Oct 2026 15:36:45 +0800</pubDate>
             <sparkle:version>45</sparkle:version>
@@ -49,7 +57,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             </sparkle:deltas>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: 6ZTB7yMGpPVg9be5KOc16W6Fs5fmvy/uQRqNawaKBQCMNahyu4+Gla2KuzJeoNt3jqJg89WvgacJ8r620LMTAw==
-length: 8795
+</rss>
+<!-- sparkle-signatures:
+edSignature: TrM8rdQN3v2W0UnF9wH59MMhIPdwEyIHLHcPDD33VHKDHr+AgGLTxwwTUYI/JLUeYk+4lJHcUsvI8S5ZdYIEAw==
+length: 9423
 -->
